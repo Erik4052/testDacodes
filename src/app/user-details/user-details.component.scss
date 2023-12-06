@@ -1,0 +1,22 @@
+.avatar-image {
+    max-width: 400px;
+    max-height: 400px;
+}
+
+.avatar-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 400px;
+}
+
+.bar-user-info {
+    max-width: 500px;
+    margin-left: 10px;
+}
+
+.user-info{
+    display: flex;
+    align-items: center;
+    margin-left: 250px !important;
+}
